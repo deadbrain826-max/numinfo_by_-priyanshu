@@ -1,0 +1,22 @@
+{
+  "PRIYANSHU": {
+    "plan": "lifetime",
+    "expires_at": null,
+    "active": true
+  },
+  "BIKKHARI YA LA": {
+    "plan": "3_day",
+    "expires_at": "2026-04-04T00:00:00",
+    "active": true
+  },
+  "FREE-API-7-DAYS": {
+    "plan": "7_day",
+    "expires_at": "2026-04-08T00:00:00",
+    "active": true
+  },
+  "30D-DEMO02": {
+    "plan": "30_day",
+    "expires_at": "2026-05-01T00:00:00",
+    "active": true
+  }
+}
